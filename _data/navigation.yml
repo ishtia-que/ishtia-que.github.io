@@ -20,11 +20,13 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
+  - title: "Experiences"
+    url: /cv
   #- title: "Blog Posts"
    # url: /year-archive/
-    
+
   - title: "CV"
-    url: https://github.com/ishtia-que/ishtia-que.github.io/blob/master/files/Ishtiaque_Ahmed_cv.pdf
+    url: https://drive.google.com/file/d/1uRBk-rW-L2Yu1fYbUpqAQmK-uKQhT24u/view?usp=sharing
     
   # - title: "CV"
   #   url: /cv-json/
