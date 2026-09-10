@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ishtiaque Ahmed" # TODO: confirm this is how you want your name/title shown
 title_separator          : "-"
 name                     : &name "Ishtiaque Ahmed" # TODO: confirm full display name
-description              : &description "PhD Applicant | Bridging Physics and AI/ML/DL/VLM/Multimodal AI | [Your Target University]"   # TODO: fill in target university/program
+description              : &description "PhD Applicant | Applied Stastistics and Data Science | Physics"   # TODO: fill in target university/program
 url                      : https://ishtia-que.github.io # assumes GitHub Pages at username.github.io — update if hosted elsewhere
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ishtia-que/ishtia-que.github.io"
