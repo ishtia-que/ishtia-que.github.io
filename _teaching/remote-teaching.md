@@ -2,7 +2,7 @@
 title: "Remote Tutor"
 collection: teaching
 type: "Intermediate Physics, Math and Information Technology courses"
-permalink: /teaching/remote-teaching-
+permalink: /teaching/remote-teaching
 venue: "Remote"
 date: June 2020 to June 2026
 location: "Remote, Bangladesh"
