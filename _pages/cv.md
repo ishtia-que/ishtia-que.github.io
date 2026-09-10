@@ -94,25 +94,19 @@ redirect_from:
 * Python for Data Science, AI & Development - IBM, May 2024
 * Database Design and Basic SQL in PostgreSQL - University of Michigan, April 2024
 
+<!--
 # Publications
-
 # ======
-
 # <ul>{% for post in site.publications reversed %}
-
-# {% include archive-single-cv.html %}
-
+#   {% include archive-single-cv.html %}
 # {% endfor %}</ul>
 
 # Talks
-
 # ======
-
 # <ul>{% for post in site.talks reversed %}
-
-# {% include archive-single-talk-cv.html %}
-
+#   {% include archive-single-talk-cv.html %}
 # {% endfor %}</ul>
+ -->
 
 # Leadership
 
