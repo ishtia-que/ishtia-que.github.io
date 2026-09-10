@@ -1,5 +1,5 @@
 ---
-title: "[Portfolio item number 1]Retail Sales Analytics Demographic Intelligence with PostgreSQL"
+title: "Retail Sales Analytics Demographic Intelligence with PostgreSQL"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/item-psql1.png'>"
 collection: portfolio
 ---
