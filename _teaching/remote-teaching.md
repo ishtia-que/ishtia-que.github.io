@@ -22,8 +22,8 @@ Waves, Current and Static Electricity, Modern Physics, Optics, Semiconductor Phy
 (Half-Life, Chain Reactions)
 
 
- Mathematics
- ======
+Mathematics
+======
 Matrices and Determinants, Linear Equations, Combinatorics, Trigonometry and Inverse Trigonom-
 etry, Calculus (Differentiation and Integration), Complex and Real Numbers, Binomial Expansion, Quadratic
 Equations, and Conic Sections (Parabola, Ellipse, Hyperbola) 
