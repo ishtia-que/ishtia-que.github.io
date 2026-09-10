@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/ite
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project focuses on transforming raw retail transaction data into actionable business insights. Using PostgreSQL, I performed comprehensive data cleaning, exploratory data analysis (EDA), and developed advanced SQL queries to solve real-world business problems, including customer segmentation and sales trend analysis.
