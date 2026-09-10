@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ishtiaque Mashroor" # TODO: confirm this is how you want your name/title shown
+title                    : "Ishtiaque Ahmed" # TODO: confirm this is how you want your name/title shown
 title_separator          : "-"
-name                     : &name "Ishtiaque Mashroor" # TODO: confirm full display name
+name                     : &name "Ishtiaque Ahmed" # TODO: confirm full display name
 description              : &description "PhD Applicant | Bridging Physics and AI/ML/DL/VLM/Multimodal AI | [Your Target University]"   # TODO: fill in target university/program
 url                      : https://ishtia-que.github.io # assumes GitHub Pages at username.github.io — update if hosted elsewhere
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "ishtia-que/ishtia-que.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ishtiaque Mashroor" # TODO: confirm full display name
+  name             : "Ishtiaque Ahmed" # TODO: confirm full display name
   pronouns         : # example: "she/her"  
-  bio              : "PhD aspirant with a physics background (B.Sc. Physics, HSTU) and ~10 years in data science and AI. Currently doing research work at the intersection of physics and AI/ML — deep learning, vision-language models, and multimodal AI."
+  bio              : "PhD aspirant | Applied Statistics and Data Science | Physics"
   location         : "Dhaka, Bangladesh"
-  employer         : "Drone Survey Bangladesh" # from what you've told me before — remove/replace if this isn't the affiliation you want shown
+  employer         : "Elite Research Lab" # from what you've told me before — remove/replace if this isn't the affiliation you want shown
   uri              : # URL
-  email            : "ishtiaque.a.research@gmail.com" # research email — used for Scholar/PhD outreach
+  email            : "zisandue@gmail.com" # research email — used for Scholar/PhD outreach
 
   # Academic websites
   academia         : # URL
